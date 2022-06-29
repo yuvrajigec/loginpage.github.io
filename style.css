@@ -1,8 +1,7 @@
 body {
     margin: 0px;
     padding:0%;
-    background: url(laptop-wallpaper-1366x768.jpg);
-    background-position: center;
+    background: url(laptop-wallpaper-1366x768.jpg) no-repeat center center fixed;
     background-size: cover;
     font-family: sans-serif;
 }
