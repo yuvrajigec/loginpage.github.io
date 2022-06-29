@@ -3,7 +3,10 @@ body {
     padding:0%;
     background: url(laptop-wallpaper-1366x768.jpg) no-repeat center center fixed;
     background-size: cover;
-    font-family: sans-serif;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+   -o-background-size: cover;
+    font-family: sans-sarif
 }
 .loginpage {
    width: 419px;
